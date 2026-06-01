@@ -54,6 +54,4 @@ cd Backend/EmployeManagementSystem
 .\mvnw.cmd test
 ```
 
-## Next steps
 
-- Commit the README and push to your GitHub remote. See commands below.
